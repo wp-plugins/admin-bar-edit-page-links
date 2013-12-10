@@ -4,7 +4,7 @@ Donate link: http://brettshumaker.com/
 Tags: edit page, page links, admin bar, page
 Requires at least: 3.0
 Tested up to: 3.7.1
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,3 +32,6 @@ Adds edit page links to the WordPress admin bar so you can quickly jump between 
 
 = 1.0 =
 * Initial Plugin Launch
+
+= 1.01 =
+* Remove testing code
