@@ -27,6 +27,9 @@ Adds edit page links to the WordPress admin bar so you can quickly jump between 
 
 [Visit the Admin Bar Edit Page Links support section to ask a question!](http://wordpress.org/support/plugin/admin-bar-edit-page-links "Admin Bar Edit Page Links support")
 
+== Screenshots ==
+
+1. Edit Pages admin menu
 
 == Changelog ==
 
