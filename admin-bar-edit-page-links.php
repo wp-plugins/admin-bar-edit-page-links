@@ -100,7 +100,7 @@ function bs_abep_admin_bar_links() {
 					'title' => $label,
 					'href' => $url,
 					'id' => $page_id,
-					'parent' => 'bs_abep_links'
+					'parent' => 'bs_abep_links'.$img
 				));
 	}
 }
