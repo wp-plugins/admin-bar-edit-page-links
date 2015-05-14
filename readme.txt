@@ -30,7 +30,9 @@ Click on 'Admin Bar Edit Content Links' in the 'Settings' menu on the left. Then
 
 == Screenshots ==
 
-1. Edit Pages admin menu
+1. Admin Bar Edit Content Links settings menu
+
+2. The menu in action
 
 == Changelog ==
 
